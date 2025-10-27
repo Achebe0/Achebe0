@@ -1,4 +1,4 @@
-## Hey What's up everyone I'm Achebe
+## My Github
 
 CompE student @ University of Guelph<br/>
 This AI stuff seems kinda cool<br/>
