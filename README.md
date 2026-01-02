@@ -1,6 +1,6 @@
-## My Github
+## Hey I'm Achebe
 
-CompEng student @ University of Guelph<br/>
+I'm a computer engineering student at the University of Guelph<br/>
 This AI stuff seems kinda cool<br/>
 
 
