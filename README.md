@@ -1,4 +1,4 @@
-# Hey, I'm Achebe 👋
+# Hey, I'm Achebe 
 
 Computer Engineering student at the University of Guelph.
 
