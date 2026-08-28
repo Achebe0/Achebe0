@@ -8,8 +8,8 @@ I'm interested in systems, AI, compilers, FPGA design, and building software at 
 
 * **ML Graph Compiler** — Custom C++ IR with optimization passes including constant folding, dead node elimination, and operator fusion.
 * **Multi-Exchange Orderbook** — C++ L2 order book consuming live market data with cross-exchange anomaly detection.
-* **Swarm Robotics** — Exploring decentralized multi-agent behavior using ROS2 and Isaac Sim.
-* **LLM System Router** — Model routing and execution system built around semantic routing and DAG-based workflows.
+* **Commit Analysis Agent** — Finding the bad commits in the system, rolling back the errors and autonomously fixing them.
+* **Smart Order Router** — Model routing and execution system built around semantic routing and DAG-based workflows.
 
 ## Tech
 
