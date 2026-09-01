@@ -13,9 +13,9 @@ I'm interested in systems, AI, compilers, FPGA design, and building software at 
 
 ## Tech
 
-**Languages:** C++, Python, Go, Java, TypeScript, C, VHDL
+**Languages:** C/C++, Python, Go, Java, JavaScript/TypeScript, VHDL, System Verilog
 
-**Technologies:** PyTorch, Spring Boot, ROS2, AWS, PostgreSQL, Docker, React
+**Technologies:** PyTorch, Spring Boot, FastAPI, ROS2, AWS, PostgreSQL, Docker, React
 
 ## Connect
 
